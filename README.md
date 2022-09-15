@@ -1,4 +1,7 @@
 # What to know
+### The Interviewer Is Your Best Resource
+The person interviewing you wants you to be the best candidate they've ever interviewed. They are probably a programmer or manager of programmers and interviewing people is not their main job and consequently not the thing they want to be focusing on at work. The fewer people they have to interview the better. They will answer any questions you have to improve your performance. If you THINK OUT LOUD, they will probably offer up suggestions. They will offer hints if you seem to be getting stuck because, again, they want you to do well.
+
 ### Big O
 Get very good at Big O, both time and space complexity. Know where you can
 optimize for time, where you can optimize for space, and why you might want to
@@ -47,7 +50,7 @@ Sheet](https://www.crackingthecodinginterview.com/uploads/6/5/2/8/6528028/cracki
     - THINK OUT LOUD
 3. Get a Brute Force Solution
     - Get an obvious, terrible solution first. The interviewer doesn't know that
-    you know the easy (and bad) way to solve a thing
+    you know the easy (and bad) way to solve a thing    
     - It's much easier to improve a bad solution than to jump straight to a
     perfect one. This is the first step on your ladder to optimal code
     - THINK OUT LOUD
@@ -90,5 +93,6 @@ Sheet](https://www.crackingthecodinginterview.com/uploads/6/5/2/8/6528028/cracki
 # How to Practice
     - Practice every day
     - Write code on paper
+    - Follow the same steps you would as if you were whiteboarding in an interview
     - If the company uses a specific language, practice in that language    
     - THINK OUT LOUD
